@@ -155,6 +155,7 @@ public interface ObjLongConsumer<T> {
 public interface IntUnaryOperator {
 
     int applyAsInt(int operand);
+}
 ----
 
 [source,java]
